@@ -5,7 +5,7 @@ var jpdbIRL = "/api/irl";
 var jpdbIML = "/api/iml ";
 var stdDBName="School-DB";
 var stdRelationName ="Student-rel";
-var connToken = "90932878|-31949282040235381|90947936";
+var connToken = "90931294|-31949327847979963|90961072";
 
 function SaveRecNo2LS(jsonObj)
 {
